@@ -30,7 +30,7 @@ Multi-output learning with imbalanced data.
 
 ## Submission Guidelines 
 
-We request 2-page extended abstracts with free-style to be submitted by 20th Aug, 2017. Accepted abstracts will be presented as posters. Works that had previously been published elsewhere can also be submitted as there will be no proceeding publication.  Papers should be submitted directly to the following e-mail: ACML2018ws@gmail.com
+We request 2-page extended abstracts with free-style to be submitted by 20th Aug, 2018. Accepted abstracts will be presented as posters. Works that had previously been published elsewhere can also be submitted as there will be no proceeding publication.  Papers should be submitted directly to the following e-mail: ACML2018ws@gmail.com
 
 ## Tentative Schedule
 
