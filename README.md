@@ -9,14 +9,23 @@ The theoretical properties of existing approaches for multi-output data are stil
 Interested topics include, but are not limited to: 
 
 Novel deep learning methods for multi-output learning tasks. 
+
 Novel modellings for multi-output learning from new perspectives. 
+
 Statistical theory analysis for multiple output learning. 
+
 Large-scale optimization algorithms for multiple output learning. 
+
 Sparse representation learning for large-scale multiple output learning. 
+
 Active learning for multi-output data. 
+
 Online learning for multi-output data. 
+
 Metric learning for multi-output data. 
+
 Multi-output learning with noisy data. 
+
 Multi-output learning with imbalanced data. 
 
 ## Submission Guidelines 
@@ -33,28 +42,44 @@ At least one author from each accepted paper must register for the workshop. Ple
 ## Tentative Schedule
 
 8:50 - 9:00 Introduction 
+
 9:00 - 10:00 Invited Keynote Talk 
+
 ===10:00-10:30 Morning tea=== 
+
 10:30 - 10:55 Paper presentation 
+
 10:55 - 11:20 Paper presentation 
+
 11:20 - 11:35 Paper presentation 
+
 ===11:35 - 11:50 Panel discussion=== 
+
 11:50 - 12:05 Paper presentation 
+
 12:05 - 12:20 Paper presentation 
+
 12:20 - 12:35 Paper presentation 
+
 ===12:35 - 12:50 Panel discussion=== 
 
 
 ## Important Dates 
 
 Submission: 20 Aug, 2018. 
+
 Notification: 01 Oct, 2018. 
+
 Workshop: 14 Nov, 2018. 
 
 ## Organizers
 
 Weiwei Liu, University of New South Wales, Australia. 
+
 Xiaobo Shen, Nanyang Technological University, Singapore. 
+
 Yew-Soon Ong, Nanyang Technological University, Singapore. 
+
 Ivor W. Tsang, University of Technology Sydney, Australia. 
+
 Chen Gong, Nanjing University of Science and Technology, China.
