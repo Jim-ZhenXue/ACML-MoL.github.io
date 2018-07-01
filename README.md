@@ -30,14 +30,7 @@ Multi-output learning with imbalanced data.
 
 ## Submission Guidelines 
 
-Workshop submissions and camera ready versions will be handled by EasyChair. Click https://easychair.org/account/signin.cgi?key=68431962.hz3ckGwbTCn9OEgu for submission. 
-
-Papers should be formatted according to the ACML formatting instructions for the Conference Track. Submissions need not be anonymous. 
-
-AWRL is a non-archival venue and there will be no published proceedings. However, the papers will be posted on the workshop website. Therefore it will be possible to submit to other conferences and journals both in parallel to and after AWRL 2018. Besides, we also welcome submissions to AWRL that are under review at other conferences and workshops. For this reason, please feel free to submit either anonymized or non-anonymized versions of your work. We have enabled anonymous reviewing so EasyChair will not reveal the author’s names unless you chose to do so in your PDF. 
-
-At least one author from each accepted paper must register for the workshop. Please see the ACML 2018 Website for information about accommodation and registration. 
-
+We request 2-page extended abstracts with free-style to be submitted by 20th Aug, 2017. Accepted abstracts will be presented as posters. Works that had previously been published elsewhere can also be submitted as there will be no proceeding publication.  Papers should be submitted directly to the following e-mail: ACML2018ws@gmail.com
 
 ## Tentative Schedule
 
