@@ -30,7 +30,13 @@ Multi-output learning with imbalanced data.
 
 # Submission Guidelines 
 
-We request 2-page extended abstracts with free-style to be submitted by 20th Aug, 2018. Accepted abstracts will be presented as posters. Works that had previously been published elsewhere can also be submitted as there will be no proceeding publication.  Papers should be submitted directly to the following e-mail: ACML2018ws@gmail.com
+Workshop submissions and camera ready versions will be handled by EasyChair. Click https://cmt3.research.microsoft.com/ACMLMoL2018 for submission. 
+
+Papers should be formatted according to the ACML formatting instructions for the Conference Track. The submissions with 2 pages will be considered for the poster, while submissions with at least 6 pages will be considered for the oral presentation. The oral paper may have chance to be invited to IEEE TNNLS Special Issue on "Structured Multi-output Learning: Modelling, Algorithm, Theory and Applications" (https://cis.ieee.org/images/files/Documents/Transactions/TNNLS/TNNLS_SMLMATA-CFP.pdf).
+
+ACML-MoL is a non-archival venue and there will be no published proceedings. The papers will be posted on the workshop website. It will be possible to submit to other conferences and journals both in parallel to and after ACML-MoL'18. Besides, we also welcome submissions to ACML-MoL that are under review at other conferences and workshops. 
+
+At least one author from each accepted paper must register for the workshop. Please see the ACML 2018 Website for information about accommodation and registration.
 
 # Tentative Schedule
 
