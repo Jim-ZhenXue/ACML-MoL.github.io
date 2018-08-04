@@ -1,8 +1,8 @@
 # Motivation and Objectives 
 
-Multi-output learning aims to predict multiple outputs for an input, where the output values are characterized by diverse data types, such as binary, nominal, ordinal and real-valued variables. Such learning tasks arise in a variety of real-world applications, ranging from document classification, computer emulation, sensor network analysis, concept-based information retrieval, human action/causal induction, to video analysis, image annotation/retrieval, gene function prediction and brain science. Due to its popularity in applications, multi-output learning has also been widely explored in machine learning community, such as multi-label/multi-class classification, multi-target regression, hierarchical classification with class taxonomies, label sequence learning, sequence alignment learning, and supervised grammar learning, and so on. 
+Multi-output learning [1][13] aims to predict multiple outputs for an input, where the output values are characterized by diverse data types, such as binary, nominal, ordinal and real-valued variables. Such learning tasks arise in a variety of real-world applications, ranging from document classification, computer emulation, sensor network analysis, concept-based information retrieval, human action/causal induction, to video analysis, image annotation/retrieval, gene function prediction and brain science. Due to its popularity in applications, multi-output learning has also been widely explored in machine learning community, such as multi-label/multi-class classification [2][8], multi-target regression, hierarchical classification with class taxonomies, label sequence learning, sequence alignment learning, and supervised grammar learning, and so on.
 
-The theoretical properties of existing approaches for multi-output data are still not well understood. This triggers practitioners to develop novel methodologies and theories to deeply understand multi-output learning tasks. Moreover, the emerging trends of ultrahigh input and output dimensionality, and the complexly structured objects, lead to formidable challenges for multi-output learning. Therefore, it is imperative to propose practical mechanisms and efficient optimization algorithms for large-scale applications. Deep learning has gained much popularity in today’s research, and has been developed in recent years to deal with multi-label and multi-class classification problems. However, it remains non-trivial for practitioners to design novel deep neural networks that are appropriate for more comprehensive multi-output learning domains. 
+The theoretical properties of existing approaches for multi-output data are still not well understood. This triggers practitioners to develop novel methodologies [5][9][11] and theories [3] to deeply understand multi-output learning tasks. Moreover, the emerging trends of ultrahigh input and output dimensionality [7], and the complexly structured objects [4], lead to formidable challenges for multi-output learning. Therefore, it is imperative to propose practical mechanisms and efficient optimization algorithms [8][10][12] for large-scale applications. Deep learning has gained much popularity in today’s research, and has been developed in recent years to deal with multi-label and multi-class classification problems. However, it remains non-trivial for practitioners to design novel deep neural networks [6] that are appropriate for more comprehensive multi-output learning domains.
 
 # Topics of Interest 
 
@@ -82,3 +82,32 @@ Yew-Soon Ong, Nanyang Technological University, Singapore.
 Ivor W. Tsang, University of Technology Sydney, Australia. 
 
 Chen Gong, Nanjing University of Science and Technology, China.
+
+# Reference
+
+[1] Mauricio A. Álvarez, Lorenzo Rosasco, Neil D. Lawrence, Kernels for Vector-Valued Functions: A Review, Foundations and Trends in Machine Learning, 2012.
+
+[2] Weiwei Liu, Ivor W. Tsang, Large Margin Metric Learning for Multi-Label Prediction, AAAI 2015.
+
+[3] Weiwei Liu, Ivor W. Tsang, On the Optimality of Classifier Chain for Multi-label Classification, NIPS 2015.
+
+[4] Mingkui Tan, Qinfeng Shi, Anton van den Hengel, Chunhua Shen, Junbin Gao, Fuyuan Hu, Zhen Zhang, Learning graph structure for multi-label image classification via clique generation, CVPR 2015.
+
+[5] Chen Gong, Dacheng Tao, Jie Yang, Wei Liu, Teaching-to-Learn and Learning-to-Teach for Multi-label Propagation, AAAI 2016.
+
+[6] Moustapha Cissé, Maruan Al-Shedivat, Samy Bengio, ADIOS: Architectures Deep In Output Space, ICML 2017.
+
+[7] Weiwei Liu, Ivor W. Tsang, Making Decision Trees Feasible in Ultrahigh Feature and Label Dimensions, JMLR 2017.
+
+[8] Weiwei Liu, Ivor W. Tsang, Klaus-Robert Müller, An Easy-to-hard Learning Paradigm for Multiple Classes and Multiple Labels, JMLR 2017.
+
+[9] Chen Gong, Tongliang Liu, Yuanyan Tang, Jian Yang, Jie Yang, Dacheng Tao, A Regularization Approach for Instance-Based Superset Label Learning, TCYB, 2018.
+
+[10] Xiaobo Shen, Weiwei Liu, Ivor W. Tsang, Quan-Sen Sun, Yew-Soon Ong, Compact Multi-Label Learning, AAAI 2018.
+
+[11] Xiaobo Shen, Weiwei Liu, Ivor W. Tsang, Quan-Sen Sun, Yew-Soon Ong, Multilabel Prediction via Cross-View Search, TNNLS, 2018.
+
+[12] Xiaobo Shen, Weiwei Liu, Yong Luo, Yew-Soon Ong, Ivor W. Tsang, Deep Discrete Prototype Multilabel Learning, IJCAI 2018.
+
+[13] Weiwei Liu, Donna Xu, Ivor Tsang, Wenjie Zhang, Metric Learning for Multi-output Tasks, TPAMI, 2018.
+
