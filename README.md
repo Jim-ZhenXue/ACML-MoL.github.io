@@ -8,25 +8,25 @@ The theoretical properties of existing approaches for multi-output data are stil
 
 Interested topics include, but are not limited to: 
 
-Novel deep learning methods for multi-output learning tasks. 
+- Novel deep learning methods for multi-output learning tasks. 
 
-Novel modellings for multi-output learning from new perspectives. 
+- Novel modellings for multi-output learning from new perspectives. 
 
-Statistical theory analysis for multiple output learning. 
+- Statistical theory analysis for multiple output learning. 
 
-Large-scale optimization algorithms for multiple output learning. 
+- Large-scale optimization algorithms for multiple output learning. 
 
-Sparse representation learning for large-scale multiple output learning. 
+- Sparse representation learning for large-scale multiple output learning. 
 
-Active learning for multi-output data. 
+- Active learning for multi-output data. 
 
-Online learning for multi-output data. 
+- Online learning for multi-output data. 
 
-Metric learning for multi-output data. 
+- Metric learning for multi-output data. 
 
-Multi-output learning with noisy data. 
+- Multi-output learning with noisy data. 
 
-Multi-output learning with imbalanced data. 
+- Multi-output learning with imbalanced data. 
 
 # Submission Guidelines 
 
