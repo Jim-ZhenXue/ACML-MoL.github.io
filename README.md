@@ -65,7 +65,7 @@ At least one author from each accepted paper must register for the workshop. Ple
 
 # Important Dates 
 
-Submission: 20 Aug, 2018. 
+Submission: 20 Sep, 2018. 
 
 Notification: 01 Oct, 2018. 
 
