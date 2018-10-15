@@ -40,23 +40,23 @@ At least one author from each accepted paper must register for the workshop. Ple
 
 # Tentative Schedule
 
-8:30 - 10:00 Workshop 
+8:30 - 10:00    Workshop 
 
-10:00 - 10:20 Coffee Break 
+10:00 - 10:20   Coffee Break 
 
-10:20 - 11:50 Workshop 
+10:20 - 11:50   Workshop 
 
-11:50 - 13:30 Lunch Break 
+11:50 - 13:30   Lunch Break 
 
-13:30 - 15:30 Workshop 
+13:30 - 15:30   Workshop 
 
 # Important Dates 
 
-Submission: 13 Oct, 2018. 
+Submission:     13 Oct, 2018. 
 
-Notification: 30 Oct, 2018. 
+Notification:   30 Oct, 2018. 
 
-Workshop: 14 Nov, 2018. 
+Workshop:       14 Nov, 2018. 
 
 # Organizers
 
