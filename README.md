@@ -40,28 +40,15 @@ At least one author from each accepted paper must register for the workshop. Ple
 
 # Tentative Schedule
 
-8:50 - 9:00 Introduction 
+8:30 - 10:00 Workshop 
 
-9:00 - 10:00 Invited Keynote Talk 
+10:00 - 10:20 Coffee Break 
 
-===10:00-10:30 Morning tea=== 
+10:20 - 11:50 Workshop 
 
-10:30 - 10:55 Paper presentation 
+11:50 - 13:30 Lunch Break 
 
-10:55 - 11:20 Paper presentation 
-
-11:20 - 11:35 Paper presentation 
-
-===11:35 - 11:50 Panel discussion=== 
-
-11:50 - 12:05 Paper presentation 
-
-12:05 - 12:20 Paper presentation 
-
-12:20 - 12:35 Paper presentation 
-
-===12:35 - 12:50 Panel discussion=== 
-
+13:30 - 15:30 Workshop 
 
 # Important Dates 
 
