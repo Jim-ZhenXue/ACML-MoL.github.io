@@ -65,9 +65,11 @@ Abstract: Machine translation is a challenging machine learning problem as it ne
 
 11:40 - 13:30   Lunch
 
-13:30 - 14:30   Keynote talk by **Tao Qin**
+13:30 - 14:30   Keynote talk by **Le Song**
 
-<font size=2> *Title: Syntax-Directed Variational Autoencoder for Structure Output* </font>
+<font color=#0099ff size=1>color=#0099ff size=72</font>
+
+<font size=1> *Title: Syntax-Directed Variational Autoencoder for Structure Output* </font>
  
 Abstract: Deep generative models have been enjoying success in modeling continuous data. However it remains challenging to capture the representations for discrete structures with formal grammars and semantics, e.g., computer programs and molecular structures. How to generate both syntactically and semantically correct data still remains largely an open problem. Inspired by the theory of compiler where the syntax and semantics check is done via syntax-directed translation (SDT), we propose a novel syntax-directed variational autoencoder (SD-VAE) by introducing stochastic lazy attributes. This approach converts the offline SDT check into on-the-fly generated guidance for constraining the decoder. Comparing to the state-of-the-art methods, our approach enforces constraints on the output space so that the output will be not only syntactically valid, but also semantically reasonable. We evaluate the proposed model with applications in programming language and molecules, including reconstruction and program/molecule optimization. The results demonstrate the effectiveness in incorporating syntactic and semantic constraints in discrete generative models, which is significantly better than current state-of-the-art approaches.
 
