@@ -44,20 +44,20 @@ At least one author from each accepted paper must register for the workshop. Ple
 
 9:00 - 10:00   Keynote talk by Tao Qin
 
-Title: Recent Advances in Neural Machine Translation
+*Title: Recent Advances in Neural Machine Translation
 
 Abstract: Machine translation is a challenging machine learning problem as it needs to predict a complex output (a sequence of words) given an input. In this talk, we will present recent advances in neural machine translation, including (1) advanced models, from RNN to CNN and Transformer, (2) improved word representations, e.g., FRAGE, (3) advanced training algorithms, e.g., multi-agent dual learning and dual learning, and (4) efficent infernece, e.g., nan-autoregressive models.
 
 
 10:00 - 10:20   Coffee Break 
 
-10:20 - 10:40   Invited talk by Joey Tianyi Zhou
+10:20 - 10:40   Invited talk by **Joey Tianyi Zhou**
 
-Title: DATNet: Dual Adversarial Transfer for Low-resource Named Entity Recognition 
+*Title: DATNet: Dual Adversarial Transfer for Low-resource Named Entity Recognition 
 
-10:40 - 11:00   Invited talk by Quanming Yao
+10:40 - 11:00   Invited talk by **Quanming Yao**
 
-Title: Learning with Heterogeneous Side Information Fusion for Recommender Systems
+*Title: Learning with Heterogeneous Side Information Fusion for Recommender Systems
 
 11:00 - 11:20   Paper talk 1
 
@@ -65,15 +65,15 @@ Title: Learning with Heterogeneous Side Information Fusion for Recommender Syste
 
 11:40 - 13:30   Lunch
 
-13:30 - 14:30   Keynote talk by Tao Qin
+13:30 - 14:30   Keynote talk by **Tao Qin**
 
-Title: Syntax-Directed Variational Autoencoder for Structure Output
+*Title: Syntax-Directed Variational Autoencoder for Structure Output
  
 Abstract: Deep generative models have been enjoying success in modeling continuous data. However it remains challenging to capture the representations for discrete structures with formal grammars and semantics, e.g., computer programs and molecular structures. How to generate both syntactically and semantically correct data still remains largely an open problem. Inspired by the theory of compiler where the syntax and semantics check is done via syntax-directed translation (SDT), we propose a novel syntax-directed variational autoencoder (SD-VAE) by introducing stochastic lazy attributes. This approach converts the offline SDT check into on-the-fly generated guidance for constraining the decoder. Comparing to the state-of-the-art methods, our approach enforces constraints on the output space so that the output will be not only syntactically valid, but also semantically reasonable. We evaluate the proposed model with applications in programming language and molecules, including reconstruction and program/molecule optimization. The results demonstrate the effectiveness in incorporating syntactic and semantic constraints in discrete generative models, which is significantly better than current state-of-the-art approaches.
 
-14:30 - 14:50   Invited talk by Liang Feng
+14:30 - 14:50   Invited talk by **Liang Feng**
 
-Title: Multi-task Optimization through Denoising Autoencoding
+*Title: Multi-task Optimization through Denoising Autoencoding
 
 14:50 - 15:10   Paper talk 3
 
