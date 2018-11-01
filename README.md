@@ -44,20 +44,18 @@ At least one author from each accepted paper must register for the workshop. Ple
 
 9:00 - 10:00   Keynote talk by **Tao Qin**
 
-*Title: Recent Advances in Neural Machine Translation*
-
-Abstract: Machine translation is a challenging machine learning problem as it needs to predict a complex output (a sequence of words) given an input. In this talk, we will present recent advances in neural machine translation, including (1) advanced models, from RNN to CNN and Transformer, (2) improved word representations, e.g., FRAGE, (3) advanced training algorithms, e.g., multi-agent dual learning and dual learning, and (4) efficent infernece, e.g., nan-autoregressive models.
-
+<small>*Title: Recent Advances in Neural Machine Translation*<small>
+<small>Abstract: Machine translation is a challenging machine learning problem as it needs to predict a complex output (a sequence of words) given an input. In this talk, we will present recent advances in neural machine translation, including (1) advanced models, from RNN to CNN and Transformer, (2) improved word representations, e.g., FRAGE, (3) advanced training algorithms, e.g., multi-agent dual learning and dual learning, and (4) efficent infernece, e.g., nan-autoregressive models.<small>
 
 10:00 - 10:20   Coffee Break 
 
 10:20 - 10:40   Invited talk by **Joey Tianyi Zhou**
 
-*Title: DATNet: Dual Adversarial Transfer for Low-resource Named Entity Recognition*
+<small>*Title: DATNet: Dual Adversarial Transfer for Low-resource Named Entity Recognition*<small>
 
 10:40 - 11:00   Invited talk by **Quanming Yao**
 
-*Title: Learning with Heterogeneous Side Information Fusion for Recommender Systems*
+<small>*Title: Learning with Heterogeneous Side Information Fusion for Recommender Systems*<small>
 
 11:00 - 11:20   Paper talk 1
 
@@ -68,12 +66,11 @@ Abstract: Machine translation is a challenging machine learning problem as it ne
 13:30 - 14:30   Keynote talk by **Le Song**
 
 <small> *Title: Syntax-Directed Variational Autoencoder for Structure Output* <small>
- 
-<sub><sup> Abstract: Deep generative models have been enjoying success in modeling continuous data. However it remains challenging to capture the representations for discrete structures with formal grammars and semantics, e.g., computer programs and molecular structures. How to generate both syntactically and semantically correct data still remains largely an open problem. Inspired by the theory of compiler where the syntax and semantics check is done via syntax-directed translation (SDT), we propose a novel syntax-directed variational autoencoder (SD-VAE) by introducing stochastic lazy attributes. This approach converts the offline SDT check into on-the-fly generated guidance for constraining the decoder. Comparing to the state-of-the-art methods, our approach enforces constraints on the output space so that the output will be not only syntactically valid, but also semantically reasonable. We evaluate the proposed model with applications in programming language and molecules, including reconstruction and program/molecule optimization. The results demonstrate the effectiveness in incorporating syntactic and semantic constraints in discrete generative models, which is significantly better than current state-of-the-art approaches.<sub><sup>
+<small> Abstract: Deep generative models have been enjoying success in modeling continuous data. However it remains challenging to capture the representations for discrete structures with formal grammars and semantics, e.g., computer programs and molecular structures. How to generate both syntactically and semantically correct data still remains largely an open problem. Inspired by the theory of compiler where the syntax and semantics check is done via syntax-directed translation (SDT), we propose a novel syntax-directed variational autoencoder (SD-VAE) by introducing stochastic lazy attributes. This approach converts the offline SDT check into on-the-fly generated guidance for constraining the decoder. Comparing to the state-of-the-art methods, our approach enforces constraints on the output space so that the output will be not only syntactically valid, but also semantically reasonable. We evaluate the proposed model with applications in programming language and molecules, including reconstruction and program/molecule optimization. The results demonstrate the effectiveness in incorporating syntactic and semantic constraints in discrete generative models, which is significantly better than current state-of-the-art approaches.<small>
 
 14:30 - 14:50   Invited talk by **Liang Feng**
 
-*Title: Multi-task Optimization through Denoising Autoencoding*
+<small>*Title: Multi-task Optimization through Denoising Autoencoding*<small>
 
 14:50 - 15:10   Paper talk 3
 
