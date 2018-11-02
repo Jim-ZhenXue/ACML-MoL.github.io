@@ -1,10 +1,10 @@
-# Motivation and Objectives 
+## Motivation and Objectives 
 
 Multi-output learning [1][13] aims to predict multiple outputs for an input, where the output values are characterized by diverse data types, such as binary, nominal, ordinal and real-valued variables. Such learning tasks arise in a variety of real-world applications, ranging from document classification, computer emulation, sensor network analysis, concept-based information retrieval, human action/causal induction, to video analysis, image annotation/retrieval, gene function prediction and brain science. Due to its popularity in applications, multi-output learning has also been widely explored in machine learning community, such as multi-label/multi-class classification [2][8], multi-target regression, hierarchical classification with class taxonomies, label sequence learning, sequence alignment learning, and supervised grammar learning, and so on.
 
 The theoretical properties of existing approaches for multi-output data are still not well understood. This triggers practitioners to develop novel methodologies [5][9][11] and theories [3] to deeply understand multi-output learning tasks. Moreover, the emerging trends of ultrahigh input and output dimensionality [7], and the complexly structured objects [4], lead to formidable challenges for multi-output learning. Therefore, it is imperative to propose practical mechanisms and efficient optimization algorithms [8][10][12] for large-scale applications. Deep learning has gained much popularity in today’s research, and has been developed in recent years to deal with multi-label and multi-class classification problems. However, it remains non-trivial for practitioners to design novel deep neural networks [6] that are appropriate for more comprehensive multi-output learning domains.
 
-# Topics of Interest 
+## Topics of Interest 
 
 Interested topics include, but are not limited to: 
 
@@ -28,7 +28,7 @@ Interested topics include, but are not limited to:
 
 - Multi-output learning with imbalanced data. 
 
-# Submission Guidelines 
+## Submission Guidelines 
 
 Workshop submissions and camera ready versions will be handled by Microsoft CMT. Click [https://cmt3.research.microsoft.com/ACMLMoL2018](https://cmt3.research.microsoft.com/ACMLMoL2018) for submission. 
 
@@ -38,7 +38,7 @@ ACML-MoL is a non-archival venue and there will be no published proceedings. The
 
 At least one author from each accepted paper must register for the workshop. Please see the ACML 2018 Website for information about accommodation and registration.
 
-# Tentative Schedule
+## Tentative Schedule
 
 8:45 - 9:00    Opening 
 
@@ -78,7 +78,7 @@ At least one author from each accepted paper must register for the workshop. Ple
 
 15:10 - 15:30   Closing
 
-# Important Dates 
+## Important Dates 
 
 Submission:     13 Oct, 2018. 
 
@@ -86,7 +86,7 @@ Notification:   30 Oct, 2018.
 
 Workshop:       14 Nov, 2018. 
 
-# Organizers
+## Organizers
 
 Weiwei Liu, University of New South Wales, Australia. 
 
@@ -98,7 +98,7 @@ Ivor W. Tsang, University of Technology Sydney, Australia.
 
 Chen Gong, Nanjing University of Science and Technology, China.
 
-# Reference
+## Reference
 
 [1] Mauricio A. Álvarez, Lorenzo Rosasco, Neil D. Lawrence, Kernels for Vector-Valued Functions: A Review, Foundations and Trends in Machine Learning, 2012.
 
